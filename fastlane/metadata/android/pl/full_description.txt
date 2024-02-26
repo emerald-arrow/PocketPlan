@@ -1,9 +1,9 @@
-<i>PocketPlan</i> is a free, ad-free open-source application that takes care of everyday tasks for you. Development was focused on a simple and clear design. Many of the functional or visual aspects of the app can be personalized in the settings.
+<i>PocketPlan</i> jest darmową, wolną od reklam, aplikacją otwartoźródłową, która zajmuje się Twoimi codziennymi zadaniami. Rozwój był skupiony na prostym i czytelnym wyglądzie. Ustawienia umożliwiają personalizację wielu funkcjonalności czy wyglądu.
 
-The features in detail:
+Funkcjonalności w szczegółach:
 
-* To-do list ✔️<br>In the to-do list you can save tasks with different priorities, according to which the list is automatically sorted. Tasks with priority 1 will be displayed in the home panel!
-* Notes 📝<br>Store text-based notes in different colors and search them for contained text.
-* Birthdays 🎂<br>The birthday list gives you an overview of upcoming birthdays sorted by months.  Here you can set which birthday you want to be reminded of and which not. In order not to forget to buy a present you can also be reminded a few days before! If someone has a birthday today, this will be shown in the home panel.
-* Shopping list 📜<br>Add an item to your shopping list and it will automatically be sorted into the right category! If the shopping list does not know your item, you can also assign the category yourself. You can add multiple lists to keep everything organized.
-* Sleep Reminder ⌛️<br>You often go to bed too late because you lose track of time? Then the integrated sleep reminder can help you. Choose your preferred wake-up time and how much sleep you need, and PocketPlan will remind you to go to sleep at the right time. When this reminder is activated, the Home panel will display, how much time you have left before you should sleep.
+* Lista zadań ✔️<br>W liście zadań możesz zapisywać zadania o różnych priorytetach, według których lista jest sortowana. Zadania o priorytecie 1 będą wyświetlone w panelu głównym.
+* Notatki 📝<br>Przechowuj notatki tekstowe w różnych kolorach i wyszukuj je według ich treści.
+* Urodziny 🎂<br>Lista urodzin przedstawia podgląd nadchodzących urodzin, które sortowane są według miesięcy. Możesz tu ustawić urodziny, o których otrzymasz powiadomienia, jak i takie bez powiadomień. Żeby nie zapomnieć kupić prezentu możesz ustawić przypomnienie na kilka dni przed nimi. Jeśli ktoś ma dziś urodziny, to otrzymasz o tym powiadomienie w panelu głównym.
+* Lista zakupów 📜<br>Dodaj przedmiot na Twoją listę zakupów, a zostanie on automatycznie przydzielony do właściwej kategorii. Jeśli lista zakupów nie rozpozna Twojego produktu, to możesz dodać kategorię na własną rękę. Możesz stworzyć wiele list, żeby utrzymywać porządek.
+* Przypomnienie o śnie ⌛️<br>Często chodzisz późno spać, bo tracisz poczucie czasu? Zintegrowana funkcja powiadamiania o śnie może Ci z tym pomóc. Wybierz preferowaną godzinę pobudki i jak długo chcesz spać, a PocketPlan sam przypomni Ci, kiedy położyć się spać. Korzystając z tej funkcji, otrzymasz powiadomienie w panelu głównym, które pokaże, ile czasu pozostało Ci do pójścia spać.
