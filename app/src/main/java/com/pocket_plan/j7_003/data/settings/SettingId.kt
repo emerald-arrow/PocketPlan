@@ -20,6 +20,7 @@ enum class SettingId(val default: Any) {
     USE_SYSTEM_THEME(true),
     LANGUAGE(
         when {
+            Locale.getDefault().language.startsWith(Languages.POLISH.code) -> Languages.POLISH.index
             Locale.getDefault().language.startsWith(Languages.ROMANIAN.code) -> Languages.ROMANIAN.index
             Locale.getDefault().language.startsWith(Languages.ITALIAN.code) -> Languages.ITALIAN.index
             Locale.getDefault().language.startsWith(Languages.RUSSIAN.code) -> Languages.RUSSIAN.index

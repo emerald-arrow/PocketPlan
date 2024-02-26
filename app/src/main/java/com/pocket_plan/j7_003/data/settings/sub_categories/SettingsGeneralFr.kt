@@ -110,6 +110,7 @@ class SettingsGeneralFr : Fragment() {
             resources.getStringArray(R.array.shapes)[spShapePosition]
 
         val spLanguagePosition = when (SettingsManager.getSetting(SettingId.LANGUAGE)) {
+            7.0 -> 7
             6.0 -> 6
             5.0 -> 5
             4.0 -> 4
@@ -158,6 +159,7 @@ class SettingsGeneralFr : Fragment() {
                             4 -> 4.0
                             5 -> 5.0
                             6 -> 6.0
+                            7 -> 7.0
                             else -> 0.0
                         }
                     if (setTo != SettingsManager.getSetting(SettingId.LANGUAGE)) {

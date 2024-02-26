@@ -30,6 +30,7 @@ class ItemTemplateList : ArrayList<ItemTemplate>() {
 
     private fun loadFromAssets() {
         val languageCode = when (SettingsManager.getSetting(SettingId.LANGUAGE)) {
+            Languages.POLISH.index -> Languages.POLISH.code
             Languages.ROMANIAN.index -> Languages.ROMANIAN.code
             Languages.ITALIAN.index -> Languages.ITALIAN.code
             Languages.RUSSIAN.index -> Languages.RUSSIAN.code

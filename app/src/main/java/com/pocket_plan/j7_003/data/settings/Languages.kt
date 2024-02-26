@@ -7,5 +7,6 @@ enum class Languages (val index: Double, val code: String) {
     SPANISH(3.0, "es"),
     RUSSIAN(4.0, "ru"),
     ITALIAN(5.0, "it"),
-    ROMANIAN(6.0, "ro")
+    ROMANIAN(6.0, "ro"),
+    POLISH(7.0, "pl")
 }
